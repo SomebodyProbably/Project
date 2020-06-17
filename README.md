@@ -7,7 +7,7 @@
       color:pink;
   }
     h6 {
-      color:lemonchiffon;
+      color:papayawhip;
   }
   </style>
   

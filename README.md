@@ -13,7 +13,7 @@
       color:orange;
   }
     a::before {
-      content: "\21d2 This is a Link: "
+      content: "\21d2 This is a Link: ";
      font-weight: bold;
   }
     body {

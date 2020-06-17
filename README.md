@@ -14,7 +14,7 @@
   }
     a::before {
       content: "\21d2 This is a Link: "
-     font-weight: italics;
+     font-weight: bold;
   }
     body {
       background-color:lightblue;

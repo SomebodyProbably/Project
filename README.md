@@ -4,13 +4,13 @@
   
   <style>
     h1 {
-      color:pink;
+      color:green;
   }
     h6 {
       color:yellow;
   }
     a {
-      color:pink;
+      color:orange;
   }
   
   </style>

@@ -12,6 +12,9 @@
     a {
       color:orange;
   }
+    body {
+      background-color:lightblue;
+  }
   
   </style>
   
